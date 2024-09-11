@@ -1,5 +1,5 @@
-# portfolio
+# portfolio update
 
 
-This is My portfolio page, where i will showcase the projects that i worked on but also the current project, i want to also share my story and my adventures on this website.
+My portfolio is a page where I show my skills and experience in different Languages. Gpo a head and have fun looking for easter eggs :) 
 

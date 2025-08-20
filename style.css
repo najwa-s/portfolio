@@ -265,9 +265,11 @@ position: relative;
     gap: 2rem;
     margin-bottom: 2rem;
     margin-top: 2rem;
+
 }
 
 .about-details-container{
+    display: flex;
     justify-content: center;
     flex-direction: column;
 }
@@ -292,6 +294,8 @@ position: relative;
     border:rgb(53, 53, 53) 0.1rem solid;
     border-color: rgb(163, 163, 163);
     text-align: center;
+
+    
 }
 
 
